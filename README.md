@@ -14,4 +14,4 @@ Exploring and testing:
 1. [Phidata](https://github.com/phidatahq/phidata)
 2. [Aisuite](https://github.com/andrewyng/aisuite)
 3. [PydanticAI](https://github.com/pydantic/pydantic-ai)
-4. [LionAGI] (https://github.com/lion-agi/lionagi)
+4. [LionAGI](https://github.com/lion-agi/lionagi)
