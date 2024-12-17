@@ -25,6 +25,7 @@ llama-index-embeddings-huggingface
 
 # LangChain
 langchain
+langchain-openai
 
 
 
